@@ -73,9 +73,9 @@ function hcfw_find_and_replace_cards($content){
 
                 if(isset($sub['cost'])) {
 
-                    $newName = '<a class="hcfw-card" data-hcfw-card-id="' . $sub['id'] . '" data-hcfw-lang="'.$data_hcfw_lang.'" data-hcfw-width="'.$data_hcfw_width.'" data-hcfw-height="'.$data_hcfw_height.'" href="#" title="' . $sub['name'] . '">' . $sub['name'] . '</a>';
+                    $newName = '<a class="hcfw-card rarity-' . $sub['rarity'] . '" data-hcfw-card-id="' . $sub['id'] . '" data-hcfw-lang="'.$data_hcfw_lang.'" data-hcfw-width="'.$data_hcfw_width.'" data-hcfw-height="'.$data_hcfw_height.'" href="#" title="' . $sub['name'] . '">' . $sub['name'] . '</a>';
 
-                    $hearthstoneCards[$sub['name']] = $newName;
+                    $hearthstoneCards["[" . $sub['name'] . "]"] = $newName;
 
                 }
             }

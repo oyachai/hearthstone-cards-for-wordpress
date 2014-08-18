@@ -3,6 +3,26 @@
     position: relative;
 }
 
+.rarity-Free {
+	color: rgb(140, 140, 140);
+}
+
+.rarity-Common {
+	color: rgb(15, 170, 3);
+}
+
+.rarity-Rare {
+	color: rgb(25, 122, 185);
+}
+
+.rarity-Epic {
+	color: rgb(152, 84, 205);
+}
+
+.rarity-Legendary {
+	color: rgb(195, 107, 0);
+}
+
 .hcfw-overlay {
     display: none;
     position: absolute;
