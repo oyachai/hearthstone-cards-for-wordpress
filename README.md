@@ -49,18 +49,6 @@ In order to use the card language of your choice the plugin comes along with sup
 
 More features: Currently we are working on more features for this option page. Be excited!
 
-## Support
-
-* Browse [issue tracker](https://github.com/flowdee/hearthstone-cards-for-wordpress/issues) on GitHub
-* Visit the official [Support forum](http://coder.flowdee.de/support/)
-
-## Donations
-
-All of my plugins & themes are handmade with passion. I really looking forward to your feedback and suggestions. If you like my work and want to support me, I would be very happy to receive a kind gesture. Thanks right now!
-
-[![Donate via PayPal](http://cdn.flowdee.de/assets/button-paypal-small.gif "Donate via PayPal")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BCQRWXARSHQTW)
-
-[![Flattr flowdee](http://cdn.flowdee.de/assets/button-flattr-small.png "Flattr this!")](https://flattr.com/submit/auto?user_id=flowdee&url=http%3A%2F%2Fwordpress.org%2Fplugins%2Fhearthstone-cards%2F)
 
 ## Changelog
 
